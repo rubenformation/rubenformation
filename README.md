@@ -1,4 +1,4 @@
-Vulnerability researcher.
+Offensive security research
 
 ### Selected CVEs
 - CVE-2026-32196 (XSS2RCE in Azure Windows Admin Center)
