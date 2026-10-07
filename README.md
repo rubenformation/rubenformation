@@ -2,7 +2,10 @@ Offensive security research
 
 ### Selected CVEs
 - CVE-2026-32196 (XSS2RCE in Azure Windows Admin Center)
-- CVE-2025-50154, CVE-2025-59214, CVE-2026-20847 (x3 patch-on-patch combo)
+- x3 patch-on-patch combo
+  - CVE-2025-50154
+  - CVE-2025-59214
+  - CVE-2026-20847
 
 ### Contributions
 - **impacket** — [fortra/impacket#2237](https://github.com/fortra/impacket/pull/2237)
