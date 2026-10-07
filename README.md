@@ -6,6 +6,7 @@ Vulnerability researcher.
 
 ### Contributions
 - **impacket** — [fortra/impacket#2237](https://github.com/fortra/impacket/pull/2237)
+  
   Added `-author-log` and `-overflow` to `atexec.py`: poison or overflow the Task Scheduler Security Event 4698 Author field via task XML `RegistrationInfo`.
 
 ### Coverage
